@@ -17,7 +17,7 @@ console.log('JS Simple Calculator');
 
 console.log('Output:')
 
-console.log(num1 + "+" + num2 + "=" + addition);
-console.log(num1 + "-" + num2 + "=" + subtraction);
-console.log(num1 + "x" + num2 + "=" + multiplication);
-console.log(num1 + "/" + num2 + "=" + divison);
+console.log(num1 + " + " + num2 + " = " + addition);
+console.log(num1 + " - " + num2 + " = " + subtraction);
+console.log(num1 + " x " + num2 + " = " + multiplication);
+console.log(num1 + " / " + num2 + " = " + divison);
